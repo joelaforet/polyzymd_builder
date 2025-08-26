@@ -13,6 +13,16 @@ This repository is currently under development. To do a developmental install, d
 
 in the repository directory.
 
+## Important Notes
+
+### Building Polymers from Monomers
+* Monomers must be constructed in a way that is compliant with the reaction chemistry you wish to perform.
+* For example, Atom-Transfer Radical Polymerization (ATRP) first requires activation of monomers via halogenating them.
+* To perform this reaction, you must provide a **halogenated** monomer structure, in the example case a **chlorinated** one. 
+
+![abstract](docs/_static/atrp_visual.png)
+![abstract](docs/_static/SPMA_activation.png)
+
 ### Copyright
 
 Copyright (c) 2025, Joe Laforet Jr.
