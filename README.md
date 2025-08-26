@@ -7,6 +7,12 @@ polyzymd_builder
 
 Useful collection of scripts for the building of polymer-protein systems for MD simulations.
 
+This repository is currently under development. To do a developmental install, download this repository and type
+
+`pip install -e .`
+
+in the repository directory.
+
 ### Copyright
 
 Copyright (c) 2025, Joe Laforet Jr.
