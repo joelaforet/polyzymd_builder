@@ -123,3 +123,8 @@ ENV/
 */_version.py
 # Cookiecutter-CMS Test Artifacts
 /tests/CI_files
+
+# Cached Molecules
+**/Cached_Molecules/
+
+
