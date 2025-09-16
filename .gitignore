@@ -127,4 +127,7 @@ ENV/
 # Cached Molecules
 **/Cached_Molecules/
 
+# PackMol Garbage
+_PACKING*
+packmol*
 
