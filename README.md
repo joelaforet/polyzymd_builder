@@ -5,13 +5,13 @@ polyzymd_builder
 [![codecov](https://codecov.io/gh/joelaforet/polyzymd_builder/branch/main/graph/badge.svg)](https://codecov.io/gh/joelaforet/polyzymd_builder/branch/main)
 
 
-Useful collection of scripts for the building of polymer-protein systems for MD simulations.
+This repository is currently under development. To run the tutorial .ipynb notebooks, you first need to build the environment from the provided environment.yml file. After downloading this repository, create the environment with:
 
-This repository is currently under development. To do a developmental install, download this repository and type
+`mamba env create -f environment.yml``
 
-`pip install -e .`
+and activate it with:
 
-in the repository directory.
+`mamba activate polyzymd-env`
 
 ## Important Notes
 
