@@ -7,7 +7,7 @@ polyzymd_builder
 
 This repository is currently under development. To run the tutorial .ipynb notebooks, you first need to build the environment from the provided environment.yml file. After downloading this repository, create the environment with:
 
-`mamba env create -f environment.yml``
+`mamba env create -f environment.yml`
 
 and activate it with:
 
