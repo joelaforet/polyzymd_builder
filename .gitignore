@@ -131,3 +131,11 @@ ENV/
 _PACKING*
 packmol*
 
+# GROMACS files
+*.gro
+*.top
+*.itp
+*.mdp
+
+# Building demo files
+Building_Demos/*
